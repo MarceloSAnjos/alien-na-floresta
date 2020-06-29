@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+.botao-tela-inicial {
+  font-family: 'Krona One', sans-serif;
+  padding: 1rem 1.25rem;
+  letter-spacing: .25rem;
+  text-transform: uppercase;
+  background-color: #1b1b18;
+  border: none;
+  border-radius: .45rem;
+  color: #f9f9f9;
+}
+
+.botao-tela-inicial:hover {
+  background-color: #0b0b10;
+  transition: 1s;
+  letter-spacing: .45rem;
+  color: #ff0084;
+}
