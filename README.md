@@ -10,7 +10,7 @@ Nosso herói Finn entra em uma floresta que está sendo invadida por aliens </br
 e deverá tentar sobreviver a essa engine que ainda não tem algumas features.
 
 
-[Acesse Aqui para jogar em qualqeur dispositivo o/](https://editor.p5js.org/cellodosanjos03/full/jNJ1pPPKN)
+[Acesse Aqui para jogar em qualquer dispositivo o/](https://editor.p5js.org/cellodosanjos03/full/jNJ1pPPKN)
 
 
 
