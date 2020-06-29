@@ -1,4 +1,4 @@
-# Alien-na-floresta
+# Alien na floresta
 
 ### Jogo desenvolvido durante a #ImersaoGameDev da Alura
 
@@ -14,7 +14,7 @@ e deverá tentar sobreviver a essa engine que ainda não tem algumas features.
 
 
 
-O desenolvimento desse jogo foi realizado com a library [p5.js](https://p5js.org).
+O desenvolvimento desse jogo foi realizado com a library [p5.js](https://p5js.org).
 
 
 
