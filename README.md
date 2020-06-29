@@ -2,9 +2,11 @@
 
 ### Jogo desenvolvido durante a #ImersaoGameDev da Alura
 
-![](imagens/assets/alien-na-floresta.gif)
 
-Nosso herói Finn entra em uma floresta que está sendo invadida por aliens
+
+  <img width="460" height="300" src="imagens/assets/alien-na-floresta.gif">
+
+Nosso herói Finn entra em uma floresta que está sendo invadida por aliens </br>
 e deverá tentar sobreviver a essa engine que ainda não tem algumas features.
 
 
